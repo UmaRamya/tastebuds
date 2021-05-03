@@ -1,0 +1,37 @@
+<html>
+<head>
+<style type ="text/css">
+
+.header 	{
+	display: block; 
+	background-color:#90220B;
+ 	text-align: center;
+	 padding:10px;
+	 height:60px;
+	font-color: white;
+	font-family:Calisto MT;
+	font-size:50%;
+	}
+.img 	{
+	position: top left:
+	top:0px;
+	left:10px;
+	
+	}
+</style>
+<head>
+
+<body>
+<header class="header">
+<p><img src="logo.jpg" class="img" alt="logo"  height="200" width="150"></p>
+<p class="1">
+<a href= "home.html">Home  </a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href= "about.html">Menu </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href= "order.html">  Order Online</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href= "contact.html">Contact</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href= "reservation.html"> *Reservation*</a>
+
+</p></h1></img>
+</header>
+</body>
+</html>
